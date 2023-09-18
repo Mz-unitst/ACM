@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "compilerPath": "D:/mingw-w64-gcc-12.2-stable-r38/bin/g++.exe",
+      "cppStandard": "gnu++17",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "name": "windows-gcc-x64",
+      "cStandard": "c17"
+    }
+  ],
+  "version": 4
+}
