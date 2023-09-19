@@ -25,8 +25,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ACM/入门4-数组",
-      "program": "d:/ACM/入门4-数组/build/Debug/outDebug",
+      "cwd": "/",
+      "program": "/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/mingw-w64-gdb-12.2-stable-r38/bin/g++.exe",
       "setupCommands": [
